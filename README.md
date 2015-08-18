@@ -3,6 +3,8 @@ A collection of scripts for logging GPS data and taking periodic / timelapse pho
 
 This code is a one-off project written over a couple weeks in preparation for a road trip way out west. I apologize for the mess.
 
+You can read more at my website: http://exceedindustries.net/projects/picturesandplaces
+
 
 # Hardware
 - Raspberry Pi Model B
