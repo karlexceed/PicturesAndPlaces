@@ -3,7 +3,7 @@ A collection of scripts for logging GPS data and taking periodic / timelapse pho
 
 This code is a one-off project written over a couple weeks in preparation for a road trip way out west. I apologize for the mess.
 
-You can read more at my website: http://exceedindustries.net/projects/picturesandplaces
+You can read more at my website: http://wiki.exceedindustries.net/index.php?title=GPS_logger_%26_time_lapse_image_device
 
 
 # Hardware
